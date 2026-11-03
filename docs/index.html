@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Järfälla HC U9 &amp; U10 – matchöversikt</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>Järfälla HC <span class="nowrap">U9 &amp; U10</span> – matcher</h1>
+    <p class="meta" id="meta">Laddar…</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="alerts" aria-live="polite"></div>
+
+  <section class="panel" id="next-panel" aria-labelledby="next-h">
+    <h2 id="next-h">Närmast</h2>
+    <div id="next"></div>
+  </section>
+
+  <section class="panel" id="changes-panel" aria-labelledby="chg-h">
+    <h2 id="chg-h">Senaste ändringar <small id="chg-days"></small></h2>
+    <div id="recent-changes"></div>
+  </section>
+
+  <nav class="tabs no-print" role="tablist" aria-label="Vyer">
+    <button role="tab" data-tab="list" aria-selected="true">Lista</button>
+    <button role="tab" data-tab="week">Vecka</button>
+    <button role="tab" data-tab="conflicts">Krockar <span id="conf-count" class="count"></span></button>
+    <button role="tab" data-tab="history">Ändringar</button>
+    <button role="tab" data-tab="about">Källor &amp; inställningar</button>
+  </nav>
+
+  <section class="filters no-print" id="filters" aria-label="Filter">
+   <details id="filterbox">
+    <summary><strong>Filter</strong> <span id="f-summary" class="small"></span></summary>
+    <div class="frow">
+      <span class="flabel">Ålder</span>
+      <label class="chip age-U9"><input type="checkbox" id="f-U9" checked> U9</label>
+      <label class="chip age-U10"><input type="checkbox" id="f-U10" checked> U10</label>
+    </div>
+    <div class="frow" id="team-filter"><span class="flabel">Lag</span></div>
+    <div class="frow">
+      <label class="flabel" for="f-from">Från</label><input type="date" id="f-from">
+      <label class="flabel" for="f-to">Till</label><input type="date" id="f-to">
+    </div>
+    <div class="frow">
+      <label class="chip"><input type="checkbox" id="f-conf"> Endast krockar</label>
+      <label class="chip"><input type="checkbox" id="f-played"> Visa spelade</label>
+      <button type="button" id="f-reset" class="linkbtn">Nollställ filter</button>
+    </div>
+   </details>
+   <div class="frow quick">
+      <label class="chip"><input type="checkbox" id="q-conf"> Endast krockar</label>
+      <button type="button" id="print" class="btn">Skriv ut / PDF</button>
+   </div>
+  </section>
+
+  <section id="view-list" class="view" role="tabpanel"></section>
+  <section id="view-week" class="view" role="tabpanel" hidden></section>
+  <section id="view-conflicts" class="view" role="tabpanel" hidden></section>
+  <section id="view-history" class="view" role="tabpanel" hidden></section>
+  <section id="view-about" class="view" role="tabpanel" hidden>
+    <h2>Inställningar för krockkontroll</h2>
+    <p class="note">Källan anger bara <strong>starttider</strong>. Matchlängden nedan är ett <strong>antagande</strong> som du kan ändra. Den används bara för att uppskatta när poolspelets sista match slutar (för markeringen ”samtidigt i olika hallar” och veckovyn). Värdet sparas bara i din webbläsare.</p>
+    <form id="settings" class="settings">
+      <label>Uppskattad längd på en match (antagande)<br><input type="number" min="5" max="120" step="5" id="s-len"> min</label>
+      <button type="button" id="s-reset" class="linkbtn">Återställ standardvärden</button>
+    </form>
+    <h2>Så läses markeringarna</h2>
+    <dl class="legend" id="legend"></dl>
+    <h2>Källor</h2>
+    <div id="sources"></div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p>Uppgifterna hämtas automatiskt från de offentliga sidorna på <a href="https://stats.swehockey.se/">stats.swehockey.se</a>. Vid frågor gäller alltid arrangörens besked. Sidan visar inga spelaruppgifter.</p>
+</footer>
+
+<script src="conflicts.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

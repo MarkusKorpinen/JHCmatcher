@@ -1,0 +1,42 @@
+{
+  "season": "2026-27",
+  "season_start": "2026-07-01",
+  "season_end": "2027-06-30",
+  "club": "Järfälla HC",
+  "district_page": "/District/Stockholm",
+  "age_groups": {
+    "U9": "\\b[UF]9[PF]?\\b",
+    "U10": "\\b[UF]10[PF]?\\b"
+  },
+  "auto_discover": true,
+  "extra_sources": [],
+  "exclude_source_ids": [],
+  "fallback_sources": [
+    {
+      "id": 22070,
+      "name": "U9P",
+      "kind": "serie"
+    },
+    {
+      "id": 22028,
+      "name": "U10P",
+      "kind": "serie"
+    },
+    {
+      "id": 21957,
+      "name": "F10 Poolspel",
+      "kind": "serie"
+    },
+    {
+      "id": 22042,
+      "name": "Bålsta Cupen U10",
+      "kind": "cup"
+    }
+  ],
+  "request_delay_seconds": 2.0,
+  "change_marker_days": 14,
+  "stale_warning_days": 7,
+  "defaults": {
+    "match_minutes": 25
+  }
+}
