@@ -1,0 +1,75 @@
+name: Uppdatera matcher
+
+on:
+  schedule:
+    - cron: '23 4 * * *'
+    - cron: '53 14 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'scripts/**'
+      - 'config.json'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: uppdatera-matcher
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Installera beroenden
+        run: pip install -r requirements.txt
+
+      - name: Kör tester
+        run: |
+          python -m unittest discover -s tests
+          node tests/test_conflicts.js
+
+      - name: Hämta schema och jämför
+        id: fetch
+        continue-on-error: true
+        run: python scripts/update.py
+
+      - name: Spara resultat i repot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          if git diff --cached --quiet; then
+            echo "Inga nya data att spara."
+          else
+            git commit -m "Schemakontroll $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v5
+
+      - name: Markera körningen som misslyckad om hämtningen fallerade
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "::error::Minst en källa kunde inte hämtas. Hemsidan visar senast fungerande schema med varning."
+          exit 1
