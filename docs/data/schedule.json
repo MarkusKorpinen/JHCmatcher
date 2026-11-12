@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-12T05:24:48Z",
+ "generated_at": "2026-11-12T15:42:40Z",
  "season": "2026-27",
  "club": "Järfälla HC",
- "last_success": "2026-11-12T05:24:48Z",
+ "last_success": "2026-11-12T15:42:40Z",
  "baseline_created": "2026-11-03T12:09:58Z",
- "last_attempt": "2026-11-12T05:24:48Z",
+ "last_attempt": "2026-11-12T15:42:40Z",
  "last_attempt_ok": true,
  "fetch_failed_completely": false,
  "warnings": [],
@@ -149,7 +149,7 @@
     "U10:Järfälla HC röd",
     "U10:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22030,
@@ -160,10 +160,10 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-09 07:47",
+   "source_last_update": "2026-11-12 08:46",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22031,
@@ -174,10 +174,10 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-09 07:47",
+   "source_last_update": "2026-11-12 13:41",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22032,
@@ -191,7 +191,7 @@
    "source_last_update": "2026-11-07 08:05",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22029,
@@ -208,7 +208,7 @@
     "U10:Järfälla HC gul",
     "U10:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 21957,
@@ -224,7 +224,7 @@
    "teams": [
     "U10F:Järfälla HC"
    ],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22070,
@@ -242,7 +242,7 @@
     "U9:Järfälla HC röd",
     "U9:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22071,
@@ -253,13 +253,13 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-11 11:43",
-   "matches": 63,
+   "source_last_update": "2026-11-12 11:48",
+   "matches": 60,
    "teams": [
     "U9:Järfälla HC gul",
     "U9:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22072,
@@ -270,10 +270,10 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-08 16:00",
+   "source_last_update": "2026-11-12 08:45",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22073,
@@ -287,7 +287,7 @@
    "source_last_update": "2026-11-07 17:02",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22074,
@@ -301,7 +301,7 @@
    "source_last_update": "2026-11-10 18:53",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   },
   {
    "id": 22042,
@@ -318,7 +318,7 @@
     "U10:Järfälla HC 2@Bålsta Cupen U10",
     "U10:Järfälla HC@Bålsta Cupen U10"
    ],
-   "checked_at": "2026-11-12T05:24:48Z"
+   "checked_at": "2026-11-12T15:42:40Z"
   }
  ],
  "other_sources": [
@@ -8255,7 +8255,8 @@
    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
    "status": "planerad",
    "row_seq": 224,
-   "first_seen": "2026-11-03T12:09:58Z"
+   "first_seen": "2026-11-03T12:09:58Z",
+   "missing_since": "2026-11-12T15:42:40Z"
   },
   {
    "id": "s22071-p2-g13-ik-gota-vit-jarfalla-hc-svart",
@@ -8281,7 +8282,8 @@
    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
    "status": "planerad",
    "row_seq": 225,
-   "first_seen": "2026-11-03T12:09:58Z"
+   "first_seen": "2026-11-03T12:09:58Z",
+   "missing_since": "2026-11-12T15:42:40Z"
   },
   {
    "id": "s22071-p2-g13-jarfalla-hc-svart-vakant-plats-5-u9p",
@@ -8307,7 +8309,8 @@
    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
    "status": "planerad",
    "row_seq": 228,
-   "first_seen": "2026-11-03T12:09:58Z"
+   "first_seen": "2026-11-03T12:09:58Z",
+   "missing_since": "2026-11-12T15:42:40Z"
   },
   {
    "id": "s22071-p2-g14-brinkens-if-rod-jarfalla-hc-gul",
@@ -10539,6 +10542,75 @@
     "group": "U9P Grupp 2",
     "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
     "block": "22071-p1-g13"
+   }
+  },
+  {
+   "match_id": "s22071-p2-g13-ifk-osteraker-hockey-gul-jarfalla-hc-svart",
+   "type": "missing",
+   "label": "SAKNAS I KÄLLAN",
+   "old": null,
+   "new": null,
+   "detected_at": "2026-11-12T15:42:40Z",
+   "match": {
+    "date": "2027-02-13",
+    "start": null,
+    "venue": "Lejonhallen",
+    "home": "Järfälla HC svart",
+    "away": "IFK Österåker Hockey gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p2-g13"
+   }
+  },
+  {
+   "match_id": "s22071-p2-g13-ik-gota-vit-jarfalla-hc-svart",
+   "type": "missing",
+   "label": "SAKNAS I KÄLLAN",
+   "old": null,
+   "new": null,
+   "detected_at": "2026-11-12T15:42:40Z",
+   "match": {
+    "date": "2027-02-13",
+    "start": null,
+    "venue": "Lejonhallen",
+    "home": "IK Göta vit",
+    "away": "Järfälla HC svart",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p2-g13"
+   }
+  },
+  {
+   "match_id": "s22071-p2-g13-jarfalla-hc-svart-vakant-plats-5-u9p",
+   "type": "missing",
+   "label": "SAKNAS I KÄLLAN",
+   "old": null,
+   "new": null,
+   "detected_at": "2026-11-12T15:42:40Z",
+   "match": {
+    "date": "2027-02-13",
+    "start": null,
+    "venue": "Lejonhallen",
+    "home": "VAKANT PLATS 5 U9P",
+    "away": "Järfälla HC svart",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p2-g13"
    }
   }
  ]
