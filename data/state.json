@@ -4652,14 +4652,18 @@
    "home": "Järfälla HC",
    "away": "VAKANT PLATS 5 U10F",
    "date": "2026-12-12",
-   "start": null,
-   "time_from_row_above": false,
+   "start": "13:30",
+   "time_from_row_above": true,
    "time_placeholder": false,
-   "venue": "Järfälla Ishall",
+   "venue": "Kallhälls Ishall",
    "host": "Järfälla HC",
    "block": "21957-p1-g21",
    "block_kind": "sammandrag",
-   "block_times": [],
+   "block_times": [
+    "13:30",
+    "14:00",
+    "14:30"
+   ],
    "series": "F10 Poolspel",
    "group": "U10F Grupp 2 Stockholm Gotland",
    "group_id": 21957,
@@ -4678,14 +4682,18 @@
    "home": "Brinkens IF",
    "away": "Järfälla HC",
    "date": "2026-12-12",
-   "start": null,
+   "start": "14:00",
    "time_from_row_above": false,
    "time_placeholder": false,
-   "venue": "Järfälla Ishall",
+   "venue": "Kallhälls Ishall",
    "host": "Järfälla HC",
    "block": "21957-p1-g21",
    "block_kind": "sammandrag",
-   "block_times": [],
+   "block_times": [
+    "13:30",
+    "14:00",
+    "14:30"
+   ],
    "series": "F10 Poolspel",
    "group": "U10F Grupp 2 Stockholm Gotland",
    "group_id": 21957,
@@ -4704,14 +4712,18 @@
    "home": "Vallentuna Hockey vit",
    "away": "Järfälla HC",
    "date": "2026-12-12",
-   "start": null,
-   "time_from_row_above": false,
+   "start": "14:30",
+   "time_from_row_above": true,
    "time_placeholder": false,
-   "venue": "Järfälla Ishall",
+   "venue": "Kallhälls Ishall",
    "host": "Järfälla HC",
    "block": "21957-p1-g21",
    "block_kind": "sammandrag",
-   "block_times": [],
+   "block_times": [
+    "13:30",
+    "14:00",
+    "14:30"
+   ],
    "series": "F10 Poolspel",
    "group": "U10F Grupp 2 Stockholm Gotland",
    "group_id": 21957,
@@ -10177,6 +10189,144 @@
     "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
     "block": "22071-p2-g13"
    }
+  },
+  {
+   "match_id": "s21957-p1-g21-jarfalla-hc-vakant-plats-5-u10f",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "13:30",
+   "detected_at": "2026-11-16T05:46:30Z",
+   "match": {
+    "date": "2026-12-12",
+    "start": "13:30",
+    "venue": "Kallhälls Ishall",
+    "home": "Järfälla HC",
+    "away": "VAKANT PLATS 5 U10F",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g21"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g21-jarfalla-hc-vakant-plats-5-u10f",
+   "type": "venue",
+   "label": "NY ISHALL",
+   "old": "Järfälla Ishall",
+   "new": "Kallhälls Ishall",
+   "detected_at": "2026-11-16T05:46:30Z",
+   "match": {
+    "date": "2026-12-12",
+    "start": "13:30",
+    "venue": "Kallhälls Ishall",
+    "home": "Järfälla HC",
+    "away": "VAKANT PLATS 5 U10F",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g21"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g21-brinkens-if-jarfalla-hc",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "14:00",
+   "detected_at": "2026-11-16T05:46:30Z",
+   "match": {
+    "date": "2026-12-12",
+    "start": "14:00",
+    "venue": "Kallhälls Ishall",
+    "home": "Brinkens IF",
+    "away": "Järfälla HC",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g21"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g21-brinkens-if-jarfalla-hc",
+   "type": "venue",
+   "label": "NY ISHALL",
+   "old": "Järfälla Ishall",
+   "new": "Kallhälls Ishall",
+   "detected_at": "2026-11-16T05:46:30Z",
+   "match": {
+    "date": "2026-12-12",
+    "start": "14:00",
+    "venue": "Kallhälls Ishall",
+    "home": "Brinkens IF",
+    "away": "Järfälla HC",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g21"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g21-jarfalla-hc-vallentuna-hockey-vit",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "14:30",
+   "detected_at": "2026-11-16T05:46:30Z",
+   "match": {
+    "date": "2026-12-12",
+    "start": "14:30",
+    "venue": "Kallhälls Ishall",
+    "home": "Vallentuna Hockey vit",
+    "away": "Järfälla HC",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g21"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g21-jarfalla-hc-vallentuna-hockey-vit",
+   "type": "venue",
+   "label": "NY ISHALL",
+   "old": "Järfälla Ishall",
+   "new": "Kallhälls Ishall",
+   "detected_at": "2026-11-16T05:46:30Z",
+   "match": {
+    "date": "2026-12-12",
+    "start": "14:30",
+    "venue": "Kallhälls Ishall",
+    "home": "Vallentuna Hockey vit",
+    "away": "Järfälla HC",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g21"
+   }
   }
  ],
  "missing": {
@@ -10318,7 +10468,7 @@
     "U10:Järfälla HC röd",
     "U10:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22030,
@@ -10329,10 +10479,10 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-15 13:01",
+   "source_last_update": "2026-11-15 19:01",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22031,
@@ -10343,10 +10493,10 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-15 16:01",
+   "source_last_update": "2026-11-15 17:01",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22032,
@@ -10360,7 +10510,7 @@
    "source_last_update": "2026-11-14 18:00",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22029,
@@ -10377,7 +10527,7 @@
     "U10:Järfälla HC gul",
     "U10:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 21957,
@@ -10388,12 +10538,12 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-15 12:02",
+   "source_last_update": "2026-11-15 17:43",
    "matches": 33,
    "teams": [
     "U10F:Järfälla HC"
    ],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22070,
@@ -10411,7 +10561,7 @@
     "U9:Järfälla HC röd",
     "U9:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22071,
@@ -10428,7 +10578,7 @@
     "U9:Järfälla HC gul",
     "U9:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22072,
@@ -10442,7 +10592,7 @@
    "source_last_update": "2026-11-14 18:00",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22073,
@@ -10456,7 +10606,7 @@
    "source_last_update": "2026-11-15 14:42",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22074,
@@ -10470,7 +10620,7 @@
    "source_last_update": "2026-11-10 18:53",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   },
   {
    "id": 22042,
@@ -10487,7 +10637,7 @@
     "U10:Järfälla HC 2@Bålsta Cupen U10",
     "U10:Järfälla HC@Bålsta Cupen U10"
    ],
-   "checked_at": "2026-11-15T15:25:59Z"
+   "checked_at": "2026-11-16T05:46:30Z"
   }
  ],
  "other_sources": [
@@ -10793,10 +10943,17 @@
    "changes": 0,
    "requests": 14,
    "warnings": []
+  },
+  {
+   "at": "2026-11-16T05:46:30Z",
+   "ok": true,
+   "changes": 6,
+   "requests": 14,
+   "warnings": []
   }
  ],
- "last_success": "2026-11-15T15:25:59Z",
+ "last_success": "2026-11-16T05:46:30Z",
  "baseline_created": "2026-11-03T12:09:58Z",
- "last_attempt": "2026-11-15T15:25:59Z",
+ "last_attempt": "2026-11-16T05:46:30Z",
  "last_attempt_ok": true
 }
