@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-19T05:28:13Z",
+ "generated_at": "2026-11-19T15:44:17Z",
  "season": "2026-27",
  "club": "Järfälla HC",
- "last_success": "2026-11-19T05:28:13Z",
+ "last_success": "2026-11-19T15:44:17Z",
  "baseline_created": "2026-11-03T12:09:58Z",
- "last_attempt": "2026-11-19T05:28:13Z",
+ "last_attempt": "2026-11-19T15:44:17Z",
  "last_attempt_ok": true,
  "fetch_failed_completely": false,
  "warnings": [],
@@ -149,7 +149,7 @@
     "U10:Järfälla HC röd",
     "U10:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22030,
@@ -163,7 +163,7 @@
    "source_last_update": "2026-11-18 18:52",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22031,
@@ -177,7 +177,7 @@
    "source_last_update": "2026-11-17 14:39",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22032,
@@ -191,7 +191,7 @@
    "source_last_update": "2026-11-17 14:55",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22029,
@@ -208,7 +208,7 @@
     "U10:Järfälla HC gul",
     "U10:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 21957,
@@ -219,12 +219,12 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-15 17:43",
+   "source_last_update": "2026-11-19 08:35",
    "matches": 33,
    "teams": [
     "U10F:Järfälla HC"
    ],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22070,
@@ -242,7 +242,7 @@
     "U9:Järfälla HC röd",
     "U9:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22071,
@@ -253,13 +253,13 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-18 17:51",
+   "source_last_update": "2026-11-19 13:59",
    "matches": 60,
    "teams": [
     "U9:Järfälla HC gul",
     "U9:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22072,
@@ -270,10 +270,10 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-14 18:00",
+   "source_last_update": "2026-11-19 09:18",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22073,
@@ -287,7 +287,7 @@
    "source_last_update": "2026-11-15 14:42",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22074,
@@ -301,7 +301,7 @@
    "source_last_update": "2026-11-17 14:58",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   },
   {
    "id": 22042,
@@ -318,7 +318,7 @@
     "U10:Järfälla HC 2@Bålsta Cupen U10",
     "U10:Järfälla HC@Bålsta Cupen U10"
    ],
-   "checked_at": "2026-11-19T05:28:13Z"
+   "checked_at": "2026-11-19T15:44:17Z"
   }
  ],
  "other_sources": [
@@ -3808,6 +3808,96 @@
    "first_seen": "2026-11-03T12:09:58Z"
   },
   {
+   "id": "s21957-p1-g16-jarfalla-hc-lidingo-vikings-hc-lidingo-islanders-hc",
+   "age": "U10",
+   "girls": true,
+   "teams": [
+    "U10F:Järfälla HC"
+   ],
+   "home": "Järfälla HC",
+   "away": "Lidingö Vikings HC/Lidingö Islanders HC",
+   "date": "2026-11-28",
+   "start": "14:05",
+   "time_from_row_above": false,
+   "time_placeholder": false,
+   "venue": "Reliable Arena",
+   "host": "Hässelby Kälvesta HC",
+   "block": "21957-p1-g16",
+   "block_kind": "sammandrag",
+   "block_times": [
+    "14:05",
+    "14:30",
+    "14:55"
+   ],
+   "series": "F10 Poolspel",
+   "group": "U10F Grupp 2 Stockholm Gotland",
+   "group_id": 21957,
+   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+   "status": "planerad",
+   "row_seq": 73,
+   "first_seen": "2026-11-03T12:09:58Z"
+  },
+  {
+   "id": "s21957-p1-g16-jarfalla-hc-vakant-plats-5-u10f",
+   "age": "U10",
+   "girls": true,
+   "teams": [
+    "U10F:Järfälla HC"
+   ],
+   "home": "Järfälla HC",
+   "away": "VAKANT PLATS 5 U10F",
+   "date": "2026-11-28",
+   "start": "14:55",
+   "time_from_row_above": false,
+   "time_placeholder": false,
+   "venue": "Reliable Arena",
+   "host": "Hässelby Kälvesta HC",
+   "block": "21957-p1-g16",
+   "block_kind": "sammandrag",
+   "block_times": [
+    "14:05",
+    "14:30",
+    "14:55"
+   ],
+   "series": "F10 Poolspel",
+   "group": "U10F Grupp 2 Stockholm Gotland",
+   "group_id": 21957,
+   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+   "status": "planerad",
+   "row_seq": 77,
+   "first_seen": "2026-11-03T12:09:58Z"
+  },
+  {
+   "id": "s21957-p1-g16-jarfalla-hc-vallentuna-hockey-rod",
+   "age": "U10",
+   "girls": true,
+   "teams": [
+    "U10F:Järfälla HC"
+   ],
+   "home": "Järfälla HC",
+   "away": "Vallentuna Hockey röd",
+   "date": "2026-11-28",
+   "start": "14:55",
+   "time_from_row_above": true,
+   "time_placeholder": false,
+   "venue": "Reliable Arena",
+   "host": "Hässelby Kälvesta HC",
+   "block": "21957-p1-g16",
+   "block_kind": "sammandrag",
+   "block_times": [
+    "14:05",
+    "14:30",
+    "14:55"
+   ],
+   "series": "F10 Poolspel",
+   "group": "U10F Grupp 2 Stockholm Gotland",
+   "group_id": 21957,
+   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+   "status": "planerad",
+   "row_seq": 78,
+   "first_seen": "2026-11-03T12:09:58Z"
+  },
+  {
    "id": "s22070-p1-g12-jarfalla-hc-vit-vallentuna-hockey-rod",
    "age": "U9",
    "girls": false,
@@ -4168,84 +4258,6 @@
    "first_seen": "2026-11-03T12:09:58Z"
   },
   {
-   "id": "s21957-p1-g16-jarfalla-hc-lidingo-vikings-hc-lidingo-islanders-hc",
-   "age": "U10",
-   "girls": true,
-   "teams": [
-    "U10F:Järfälla HC"
-   ],
-   "home": "Järfälla HC",
-   "away": "Lidingö Vikings HC/Lidingö Islanders HC",
-   "date": "2026-11-28",
-   "start": null,
-   "time_from_row_above": false,
-   "time_placeholder": true,
-   "venue": "Reliable Arena",
-   "host": "Hässelby Kälvesta HC",
-   "block": "21957-p1-g16",
-   "block_kind": "sammandrag",
-   "block_times": [],
-   "series": "F10 Poolspel",
-   "group": "U10F Grupp 2 Stockholm Gotland",
-   "group_id": 21957,
-   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
-   "status": "planerad",
-   "row_seq": 73,
-   "first_seen": "2026-11-03T12:09:58Z"
-  },
-  {
-   "id": "s21957-p1-g16-jarfalla-hc-vakant-plats-5-u10f",
-   "age": "U10",
-   "girls": true,
-   "teams": [
-    "U10F:Järfälla HC"
-   ],
-   "home": "Järfälla HC",
-   "away": "VAKANT PLATS 5 U10F",
-   "date": "2026-11-28",
-   "start": null,
-   "time_from_row_above": false,
-   "time_placeholder": false,
-   "venue": "Reliable Arena",
-   "host": "Hässelby Kälvesta HC",
-   "block": "21957-p1-g16",
-   "block_kind": "sammandrag",
-   "block_times": [],
-   "series": "F10 Poolspel",
-   "group": "U10F Grupp 2 Stockholm Gotland",
-   "group_id": 21957,
-   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
-   "status": "planerad",
-   "row_seq": 75,
-   "first_seen": "2026-11-03T12:09:58Z"
-  },
-  {
-   "id": "s21957-p1-g16-jarfalla-hc-vallentuna-hockey-rod",
-   "age": "U10",
-   "girls": true,
-   "teams": [
-    "U10F:Järfälla HC"
-   ],
-   "home": "Järfälla HC",
-   "away": "Vallentuna Hockey röd",
-   "date": "2026-11-28",
-   "start": null,
-   "time_from_row_above": false,
-   "time_placeholder": false,
-   "venue": "Reliable Arena",
-   "host": "Hässelby Kälvesta HC",
-   "block": "21957-p1-g16",
-   "block_kind": "sammandrag",
-   "block_times": [],
-   "series": "F10 Poolspel",
-   "group": "U10F Grupp 2 Stockholm Gotland",
-   "group_id": 21957,
-   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
-   "status": "planerad",
-   "row_seq": 77,
-   "first_seen": "2026-11-03T12:09:58Z"
-  },
-  {
    "id": "s22029-p1-g19-brinkens-if-gron-jarfalla-hc-gul",
    "age": "U10",
    "girls": false,
@@ -4455,84 +4467,6 @@
    "first_seen": "2026-11-03T12:09:58Z"
   },
   {
-   "id": "s22071-p1-g20-jarfalla-hc-gul-sde-hf-gul",
-   "age": "U9",
-   "girls": false,
-   "teams": [
-    "U9:Järfälla HC gul"
-   ],
-   "home": "Järfälla HC gul",
-   "away": "SDE HF gul",
-   "date": "2026-12-05",
-   "start": null,
-   "time_from_row_above": false,
-   "time_placeholder": false,
-   "venue": "Exakt Arena",
-   "host": "Lidingö Vikings HC",
-   "block": "22071-p1-g20",
-   "block_kind": "sammandrag",
-   "block_times": [],
-   "series": "U9P",
-   "group": "U9P Grupp 2",
-   "group_id": 22071,
-   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
-   "status": "planerad",
-   "row_seq": 116,
-   "first_seen": "2026-11-03T12:09:58Z"
-  },
-  {
-   "id": "s22071-p1-g20-jarfalla-hc-gul-lidingo-vikings-hc-svart",
-   "age": "U9",
-   "girls": false,
-   "teams": [
-    "U9:Järfälla HC gul"
-   ],
-   "home": "Lidingö Vikings HC svart",
-   "away": "Järfälla HC gul",
-   "date": "2026-12-05",
-   "start": null,
-   "time_from_row_above": false,
-   "time_placeholder": false,
-   "venue": "Exakt Arena",
-   "host": "Lidingö Vikings HC",
-   "block": "22071-p1-g20",
-   "block_kind": "sammandrag",
-   "block_times": [],
-   "series": "U9P",
-   "group": "U9P Grupp 2",
-   "group_id": 22071,
-   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
-   "status": "planerad",
-   "row_seq": 117,
-   "first_seen": "2026-11-03T12:09:58Z"
-  },
-  {
-   "id": "s22071-p1-g20-jarfalla-hc-gul-sundbybergs-ik-svart",
-   "age": "U9",
-   "girls": false,
-   "teams": [
-    "U9:Järfälla HC gul"
-   ],
-   "home": "Sundbybergs IK svart",
-   "away": "Järfälla HC gul",
-   "date": "2026-12-05",
-   "start": null,
-   "time_from_row_above": false,
-   "time_placeholder": false,
-   "venue": "Exakt Arena",
-   "host": "Lidingö Vikings HC",
-   "block": "22071-p1-g20",
-   "block_kind": "sammandrag",
-   "block_times": [],
-   "series": "U9P",
-   "group": "U9P Grupp 2",
-   "group_id": 22071,
-   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
-   "status": "planerad",
-   "row_seq": 120,
-   "first_seen": "2026-11-03T12:09:58Z"
-  },
-  {
    "id": "s22070-p1-g18-jarfalla-hc-bla-spanga-is-ik-vit",
    "age": "U9",
    "girls": false,
@@ -4710,6 +4644,96 @@
    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
    "status": "planerad",
    "row_seq": 118,
+   "first_seen": "2026-11-03T12:09:58Z"
+  },
+  {
+   "id": "s22071-p1-g20-jarfalla-hc-gul-sde-hf-gul",
+   "age": "U9",
+   "girls": false,
+   "teams": [
+    "U9:Järfälla HC gul"
+   ],
+   "home": "Järfälla HC gul",
+   "away": "SDE HF gul",
+   "date": "2026-12-06",
+   "start": "16:40",
+   "time_from_row_above": true,
+   "time_placeholder": false,
+   "venue": "Exakt Annex",
+   "host": "Lidingö Vikings HC",
+   "block": "22071-p1-g20",
+   "block_kind": "sammandrag",
+   "block_times": [
+    "16:40",
+    "17:00",
+    "17:20"
+   ],
+   "series": "U9P",
+   "group": "U9P Grupp 2",
+   "group_id": 22071,
+   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+   "status": "planerad",
+   "row_seq": 116,
+   "first_seen": "2026-11-03T12:09:58Z"
+  },
+  {
+   "id": "s22071-p1-g20-jarfalla-hc-gul-lidingo-vikings-hc-svart",
+   "age": "U9",
+   "girls": false,
+   "teams": [
+    "U9:Järfälla HC gul"
+   ],
+   "home": "Lidingö Vikings HC svart",
+   "away": "Järfälla HC gul",
+   "date": "2026-12-06",
+   "start": "17:00",
+   "time_from_row_above": false,
+   "time_placeholder": false,
+   "venue": "Exakt Annex",
+   "host": "Lidingö Vikings HC",
+   "block": "22071-p1-g20",
+   "block_kind": "sammandrag",
+   "block_times": [
+    "16:40",
+    "17:00",
+    "17:20"
+   ],
+   "series": "U9P",
+   "group": "U9P Grupp 2",
+   "group_id": 22071,
+   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+   "status": "planerad",
+   "row_seq": 117,
+   "first_seen": "2026-11-03T12:09:58Z"
+  },
+  {
+   "id": "s22071-p1-g20-jarfalla-hc-gul-sundbybergs-ik-svart",
+   "age": "U9",
+   "girls": false,
+   "teams": [
+    "U9:Järfälla HC gul"
+   ],
+   "home": "Sundbybergs IK svart",
+   "away": "Järfälla HC gul",
+   "date": "2026-12-06",
+   "start": null,
+   "time_from_row_above": false,
+   "time_placeholder": false,
+   "venue": "Exakt Arena",
+   "host": "Lidingö Vikings HC",
+   "block": "22071-p1-g20",
+   "block_kind": "sammandrag",
+   "block_times": [
+    "16:40",
+    "17:00",
+    "17:20"
+   ],
+   "series": "U9P",
+   "group": "U9P Grupp 2",
+   "group_id": 22071,
+   "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+   "status": "planerad",
+   "row_seq": 120,
    "first_seen": "2026-11-03T12:09:58Z"
   },
   {
@@ -11463,6 +11487,236 @@
     "group": "U9P Grupp 2",
     "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
     "block": "22071-p1-g25"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g16-jarfalla-hc-lidingo-vikings-hc-lidingo-islanders-hc",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "14:05",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-11-28",
+    "start": "14:05",
+    "venue": "Reliable Arena",
+    "home": "Järfälla HC",
+    "away": "Lidingö Vikings HC/Lidingö Islanders HC",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g16"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g16-jarfalla-hc-vakant-plats-5-u10f",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "14:55",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-11-28",
+    "start": "14:55",
+    "venue": "Reliable Arena",
+    "home": "Järfälla HC",
+    "away": "VAKANT PLATS 5 U10F",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g16"
+   }
+  },
+  {
+   "match_id": "s21957-p1-g16-jarfalla-hc-vallentuna-hockey-rod",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "14:55",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-11-28",
+    "start": "14:55",
+    "venue": "Reliable Arena",
+    "home": "Järfälla HC",
+    "away": "Vallentuna Hockey röd",
+    "age": "U10",
+    "teams": [
+     "U10F:Järfälla HC"
+    ],
+    "series": "F10 Poolspel",
+    "group": "U10F Grupp 2 Stockholm Gotland",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/21957",
+    "block": "21957-p1-g16"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g20-jarfalla-hc-gul-sde-hf-gul",
+   "type": "date",
+   "label": "NYTT DATUM",
+   "old": "2026-12-05",
+   "new": "2026-12-06",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "16:40",
+    "venue": "Exakt Annex",
+    "home": "Järfälla HC gul",
+    "away": "SDE HF gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC gul"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g20"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g20-jarfalla-hc-gul-sde-hf-gul",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "16:40",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "16:40",
+    "venue": "Exakt Annex",
+    "home": "Järfälla HC gul",
+    "away": "SDE HF gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC gul"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g20"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g20-jarfalla-hc-gul-sde-hf-gul",
+   "type": "venue",
+   "label": "NY ISHALL",
+   "old": "Exakt Arena",
+   "new": "Exakt Annex",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "16:40",
+    "venue": "Exakt Annex",
+    "home": "Järfälla HC gul",
+    "away": "SDE HF gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC gul"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g20"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g20-jarfalla-hc-gul-lidingo-vikings-hc-svart",
+   "type": "date",
+   "label": "NYTT DATUM",
+   "old": "2026-12-05",
+   "new": "2026-12-06",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "17:00",
+    "venue": "Exakt Annex",
+    "home": "Lidingö Vikings HC svart",
+    "away": "Järfälla HC gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC gul"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g20"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g20-jarfalla-hc-gul-lidingo-vikings-hc-svart",
+   "type": "time",
+   "label": "NY TID",
+   "old": null,
+   "new": "17:00",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "17:00",
+    "venue": "Exakt Annex",
+    "home": "Lidingö Vikings HC svart",
+    "away": "Järfälla HC gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC gul"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g20"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g20-jarfalla-hc-gul-lidingo-vikings-hc-svart",
+   "type": "venue",
+   "label": "NY ISHALL",
+   "old": "Exakt Arena",
+   "new": "Exakt Annex",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "17:00",
+    "venue": "Exakt Annex",
+    "home": "Lidingö Vikings HC svart",
+    "away": "Järfälla HC gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC gul"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g20"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g20-jarfalla-hc-gul-sundbybergs-ik-svart",
+   "type": "date",
+   "label": "NYTT DATUM",
+   "old": "2026-12-05",
+   "new": "2026-12-06",
+   "detected_at": "2026-11-19T15:44:17Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": null,
+    "venue": "Exakt Arena",
+    "home": "Sundbybergs IK svart",
+    "away": "Järfälla HC gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC gul"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g20"
    }
   }
  ]
