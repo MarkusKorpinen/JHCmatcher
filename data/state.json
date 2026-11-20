@@ -11424,7 +11424,7 @@
     "U10:Järfälla HC röd",
     "U10:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22030,
@@ -11435,10 +11435,10 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-18 18:52",
+   "source_last_update": "2026-11-19 19:04",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22031,
@@ -11452,7 +11452,7 @@
    "source_last_update": "2026-11-17 14:39",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22032,
@@ -11466,7 +11466,7 @@
    "source_last_update": "2026-11-17 14:55",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22029,
@@ -11483,7 +11483,7 @@
     "U10:Järfälla HC gul",
     "U10:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 21957,
@@ -11499,7 +11499,7 @@
    "teams": [
     "U10F:Järfälla HC"
    ],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22070,
@@ -11517,7 +11517,7 @@
     "U9:Järfälla HC röd",
     "U9:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22071,
@@ -11534,7 +11534,7 @@
     "U9:Järfälla HC gul",
     "U9:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22072,
@@ -11548,7 +11548,7 @@
    "source_last_update": "2026-11-19 09:18",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22073,
@@ -11562,7 +11562,7 @@
    "source_last_update": "2026-11-15 14:42",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22074,
@@ -11576,7 +11576,7 @@
    "source_last_update": "2026-11-17 14:58",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   },
   {
    "id": 22042,
@@ -11593,7 +11593,7 @@
     "U10:Järfälla HC 2@Bålsta Cupen U10",
     "U10:Järfälla HC@Bålsta Cupen U10"
    ],
-   "checked_at": "2026-11-19T15:44:17Z"
+   "checked_at": "2026-11-20T05:26:06Z"
   }
  ],
  "other_sources": [
@@ -11955,10 +11955,17 @@
    "changes": 10,
    "requests": 14,
    "warnings": []
+  },
+  {
+   "at": "2026-11-20T05:26:06Z",
+   "ok": true,
+   "changes": 0,
+   "requests": 14,
+   "warnings": []
   }
  ],
- "last_success": "2026-11-19T15:44:17Z",
+ "last_success": "2026-11-20T05:26:06Z",
  "baseline_created": "2026-11-03T12:09:58Z",
- "last_attempt": "2026-11-19T15:44:17Z",
+ "last_attempt": "2026-11-20T05:26:06Z",
  "last_attempt_ok": true
 }
