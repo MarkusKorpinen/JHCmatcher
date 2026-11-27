@@ -6164,7 +6164,7 @@
    "block_times": [
     "08:35",
     "08:55",
-    "09:20"
+    "09:15"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6194,7 +6194,7 @@
    "block_times": [
     "08:35",
     "08:55",
-    "09:20"
+    "09:15"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6214,7 +6214,7 @@
    "home": "Vallentuna Hockey vit",
    "away": "Järfälla HC blå",
    "date": "2026-12-06",
-   "start": "09:20",
+   "start": "09:15",
    "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "Stricct Travel Arena",
@@ -6224,7 +6224,7 @@
    "block_times": [
     "08:35",
     "08:55",
-    "09:20"
+    "09:15"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6254,8 +6254,7 @@
    "block_times": [
     "08:35",
     "08:55",
-    "09:00",
-    "09:20"
+    "09:15"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6275,8 +6274,8 @@
    "home": "Järfälla HC röd",
    "away": "Spånga IS IK blå",
    "date": "2026-12-06",
-   "start": "09:00",
-   "time_from_row_above": false,
+   "start": "08:55",
+   "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "Stricct Travel Arena",
    "host": null,
@@ -6285,8 +6284,7 @@
    "block_times": [
     "08:35",
     "08:55",
-    "09:00",
-    "09:20"
+    "09:15"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6306,7 +6304,7 @@
    "home": "Väsby IK HK vit",
    "away": "Järfälla HC röd",
    "date": "2026-12-06",
-   "start": "09:20",
+   "start": "09:15",
    "time_from_row_above": false,
    "time_placeholder": false,
    "venue": "Stricct Travel Arena",
@@ -6316,8 +6314,7 @@
    "block_times": [
     "08:35",
     "08:55",
-    "09:00",
-    "09:20"
+    "09:15"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6427,7 +6424,7 @@
    "home": "Järfälla HC blå",
    "away": "Hässelby Kälvesta HC vit",
    "date": "2026-12-13",
-   "start": "13:00",
+   "start": "14:00",
    "time_from_row_above": false,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -6435,9 +6432,9 @@
    "block": "22070-p1-g21",
    "block_kind": "sammandrag",
    "block_times": [
-    "13:00",
-    "13:30",
-    "14:00"
+    "14:00",
+    "14:30",
+    "15:00"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6457,7 +6454,7 @@
    "home": "Järfälla HC blå",
    "away": "Sundbybergs IK grön",
    "date": "2026-12-13",
-   "start": "13:30",
+   "start": "14:30",
    "time_from_row_above": false,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -6465,9 +6462,9 @@
    "block": "22070-p1-g21",
    "block_kind": "sammandrag",
    "block_times": [
-    "13:00",
-    "13:30",
-    "14:00"
+    "14:00",
+    "14:30",
+    "15:00"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6487,7 +6484,7 @@
    "home": "Järfälla HC blå",
    "away": "Spånga IS IK vit",
    "date": "2026-12-13",
-   "start": "14:00",
+   "start": "15:00",
    "time_from_row_above": false,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -6495,9 +6492,9 @@
    "block": "22070-p1-g21",
    "block_kind": "sammandrag",
    "block_times": [
-    "13:00",
-    "13:30",
-    "14:00"
+    "14:00",
+    "14:30",
+    "15:00"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6517,7 +6514,7 @@
    "home": "Järfälla HC vit",
    "away": "Sundbybergs IK vit",
    "date": "2026-12-13",
-   "start": "13:00",
+   "start": "14:00",
    "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -6525,9 +6522,9 @@
    "block": "22070-p1-g22",
    "block_kind": "sammandrag",
    "block_times": [
-    "13:00",
-    "13:30",
-    "14:00"
+    "14:00",
+    "14:30",
+    "15:00"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6547,7 +6544,7 @@
    "home": "Väsby IK HK grön",
    "away": "Järfälla HC vit",
    "date": "2026-12-13",
-   "start": "13:30",
+   "start": "14:30",
    "time_from_row_above": false,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -6555,9 +6552,9 @@
    "block": "22070-p1-g22",
    "block_kind": "sammandrag",
    "block_times": [
-    "13:00",
-    "13:30",
-    "14:00"
+    "14:00",
+    "14:30",
+    "15:00"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -6577,7 +6574,7 @@
    "home": "Spånga IS IK blå",
    "away": "Järfälla HC vit",
    "date": "2026-12-13",
-   "start": "14:00",
+   "start": "15:00",
    "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -6585,9 +6582,9 @@
    "block": "22070-p1-g22",
    "block_kind": "sammandrag",
    "block_times": [
-    "13:00",
-    "13:30",
-    "14:00"
+    "14:00",
+    "14:30",
+    "15:00"
    ],
    "series": "U9P",
    "group": "U9P Grupp 1",
@@ -8638,7 +8635,7 @@
    "home": "Väsby IK HK röd",
    "away": "Järfälla HC svart",
    "date": "2026-12-13",
-   "start": "14:45",
+   "start": "15:45",
    "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -8646,9 +8643,9 @@
    "block": "22071-p1-g25",
    "block_kind": "sammandrag",
    "block_times": [
-    "14:45",
-    "15:15",
-    "15:45"
+    "15:45",
+    "16:15",
+    "16:45"
    ],
    "series": "U9P",
    "group": "U9P Grupp 2",
@@ -8668,7 +8665,7 @@
    "home": "Järfälla HC svart",
    "away": "VAKANT PLATS 5 U9P",
    "date": "2026-12-13",
-   "start": "15:15",
+   "start": "16:15",
    "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -8676,9 +8673,9 @@
    "block": "22071-p1-g25",
    "block_kind": "sammandrag",
    "block_times": [
-    "14:45",
-    "15:15",
-    "15:45"
+    "15:45",
+    "16:15",
+    "16:45"
    ],
    "series": "U9P",
    "group": "U9P Grupp 2",
@@ -8698,7 +8695,7 @@
    "home": "Lidingö Vikings HC gul",
    "away": "Järfälla HC svart",
    "date": "2026-12-13",
-   "start": "15:45",
+   "start": "16:45",
    "time_from_row_above": false,
    "time_placeholder": false,
    "venue": "Vilundavallens Ishall B",
@@ -8706,9 +8703,9 @@
    "block": "22071-p1-g25",
    "block_kind": "sammandrag",
    "block_times": [
-    "14:45",
-    "15:15",
-    "15:45"
+    "15:45",
+    "16:15",
+    "16:45"
    ],
    "series": "U9P",
    "group": "U9P Grupp 2",
@@ -9064,7 +9061,7 @@
    "home": "Järfälla HC svart",
    "away": "IFK Österåker Hockey gul",
    "date": "2027-02-13",
-   "start": "14:05",
+   "start": "14:35",
    "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "HCL Tech Arena",
@@ -9072,9 +9069,9 @@
    "block": "22071-p2-g12",
    "block_kind": "sammandrag",
    "block_times": [
-    "14:05",
-    "14:30",
-    "14:55"
+    "14:35",
+    "15:00",
+    "15:25"
    ],
    "series": "U9P",
    "group": "U9P Grupp 2",
@@ -9094,7 +9091,7 @@
    "home": "IK Göta vit",
    "away": "Järfälla HC svart",
    "date": "2027-02-13",
-   "start": "14:30",
+   "start": "15:00",
    "time_from_row_above": false,
    "time_placeholder": false,
    "venue": "HCL Tech Arena",
@@ -9102,9 +9099,9 @@
    "block": "22071-p2-g12",
    "block_kind": "sammandrag",
    "block_times": [
-    "14:05",
-    "14:30",
-    "14:55"
+    "14:35",
+    "15:00",
+    "15:25"
    ],
    "series": "U9P",
    "group": "U9P Grupp 2",
@@ -9124,7 +9121,7 @@
    "home": "Sundbybergs IK svart",
    "away": "Järfälla HC svart",
    "date": "2027-02-13",
-   "start": "14:55",
+   "start": "15:25",
    "time_from_row_above": true,
    "time_placeholder": false,
    "venue": "HCL Tech Arena",
@@ -9132,9 +9129,9 @@
    "block": "22071-p2-g12",
    "block_kind": "sammandrag",
    "block_times": [
-    "14:05",
-    "14:30",
-    "14:55"
+    "14:35",
+    "15:00",
+    "15:25"
    ],
    "series": "U9P",
    "group": "U9P Grupp 2",
@@ -11667,6 +11664,351 @@
     "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
     "block": "22071-p2-g20"
    }
+  },
+  {
+   "match_id": "s22070-p1-g18-jarfalla-hc-bla-vallentuna-hockey-vit",
+   "type": "time",
+   "label": "NY TID",
+   "old": "09:20",
+   "new": "09:15",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "09:15",
+    "venue": "Stricct Travel Arena",
+    "home": "Vallentuna Hockey vit",
+    "away": "Järfälla HC blå",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC blå"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g18"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g19-jarfalla-hc-rod-spanga-is-ik-bla",
+   "type": "time",
+   "label": "NY TID",
+   "old": "09:00",
+   "new": "08:55",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "08:55",
+    "venue": "Stricct Travel Arena",
+    "home": "Järfälla HC röd",
+    "away": "Spånga IS IK blå",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC röd"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g19"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g19-jarfalla-hc-rod-vasby-ik-hk-vit",
+   "type": "time",
+   "label": "NY TID",
+   "old": "09:20",
+   "new": "09:15",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-06",
+    "start": "09:15",
+    "venue": "Stricct Travel Arena",
+    "home": "Väsby IK HK vit",
+    "away": "Järfälla HC röd",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC röd"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g19"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g21-hasselby-kalvesta-hc-vit-jarfalla-hc-bla",
+   "type": "time",
+   "label": "NY TID",
+   "old": "13:00",
+   "new": "14:00",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "14:00",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Järfälla HC blå",
+    "away": "Hässelby Kälvesta HC vit",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC blå"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g21"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g21-jarfalla-hc-bla-sundbybergs-ik-gron",
+   "type": "time",
+   "label": "NY TID",
+   "old": "13:30",
+   "new": "14:30",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "14:30",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Järfälla HC blå",
+    "away": "Sundbybergs IK grön",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC blå"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g21"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g21-jarfalla-hc-bla-spanga-is-ik-vit",
+   "type": "time",
+   "label": "NY TID",
+   "old": "14:00",
+   "new": "15:00",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "15:00",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Järfälla HC blå",
+    "away": "Spånga IS IK vit",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC blå"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g21"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g22-jarfalla-hc-vit-sundbybergs-ik-vit",
+   "type": "time",
+   "label": "NY TID",
+   "old": "13:00",
+   "new": "14:00",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "14:00",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Järfälla HC vit",
+    "away": "Sundbybergs IK vit",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC vit"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g22"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g22-jarfalla-hc-vit-vasby-ik-hk-gron",
+   "type": "time",
+   "label": "NY TID",
+   "old": "13:30",
+   "new": "14:30",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "14:30",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Väsby IK HK grön",
+    "away": "Järfälla HC vit",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC vit"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g22"
+   }
+  },
+  {
+   "match_id": "s22070-p1-g22-jarfalla-hc-vit-spanga-is-ik-bla",
+   "type": "time",
+   "label": "NY TID",
+   "old": "14:00",
+   "new": "15:00",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "15:00",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Spånga IS IK blå",
+    "away": "Järfälla HC vit",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC vit"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 1",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22070",
+    "block": "22070-p1-g22"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g25-jarfalla-hc-svart-vasby-ik-hk-rod",
+   "type": "time",
+   "label": "NY TID",
+   "old": "14:45",
+   "new": "15:45",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "15:45",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Väsby IK HK röd",
+    "away": "Järfälla HC svart",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g25"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g25-jarfalla-hc-svart-vakant-plats-5-u9p",
+   "type": "time",
+   "label": "NY TID",
+   "old": "15:15",
+   "new": "16:15",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "16:15",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Järfälla HC svart",
+    "away": "VAKANT PLATS 5 U9P",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g25"
+   }
+  },
+  {
+   "match_id": "s22071-p1-g25-jarfalla-hc-svart-lidingo-vikings-hc-gul",
+   "type": "time",
+   "label": "NY TID",
+   "old": "15:45",
+   "new": "16:45",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2026-12-13",
+    "start": "16:45",
+    "venue": "Vilundavallens Ishall B",
+    "home": "Lidingö Vikings HC gul",
+    "away": "Järfälla HC svart",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p1-g25"
+   }
+  },
+  {
+   "match_id": "s22071-p2-g12-ifk-osteraker-hockey-gul-jarfalla-hc-svart",
+   "type": "time",
+   "label": "NY TID",
+   "old": "14:05",
+   "new": "14:35",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2027-02-13",
+    "start": "14:35",
+    "venue": "HCL Tech Arena",
+    "home": "Järfälla HC svart",
+    "away": "IFK Österåker Hockey gul",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p2-g12"
+   }
+  },
+  {
+   "match_id": "s22071-p2-g12-ik-gota-vit-jarfalla-hc-svart",
+   "type": "time",
+   "label": "NY TID",
+   "old": "14:30",
+   "new": "15:00",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2027-02-13",
+    "start": "15:00",
+    "venue": "HCL Tech Arena",
+    "home": "IK Göta vit",
+    "away": "Järfälla HC svart",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p2-g12"
+   }
+  },
+  {
+   "match_id": "s22071-p2-g12-jarfalla-hc-svart-sundbybergs-ik-svart",
+   "type": "time",
+   "label": "NY TID",
+   "old": "14:55",
+   "new": "15:25",
+   "detected_at": "2026-11-27T15:45:59Z",
+   "match": {
+    "date": "2027-02-13",
+    "start": "15:25",
+    "venue": "HCL Tech Arena",
+    "home": "Sundbybergs IK svart",
+    "away": "Järfälla HC svart",
+    "age": "U9",
+    "teams": [
+     "U9:Järfälla HC svart"
+    ],
+    "series": "U9P",
+    "group": "U9P Grupp 2",
+    "source_url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/22071",
+    "block": "22071-p2-g12"
+   }
   }
  ],
  "missing": {
@@ -11808,7 +12150,7 @@
     "U10:Järfälla HC röd",
     "U10:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22030,
@@ -11822,7 +12164,7 @@
    "source_last_update": "2026-11-26 14:50",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22031,
@@ -11836,7 +12178,7 @@
    "source_last_update": "2026-11-25 10:43",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22032,
@@ -11850,7 +12192,7 @@
    "source_last_update": "2026-11-26 15:59",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22029,
@@ -11867,7 +12209,7 @@
     "U10:Järfälla HC gul",
     "U10:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 21957,
@@ -11883,7 +12225,7 @@
    "teams": [
     "U10F:Järfälla HC"
    ],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22070,
@@ -11894,14 +12236,14 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-25 11:51",
+   "source_last_update": "2026-11-27 14:29",
    "matches": 89,
    "teams": [
     "U9:Järfälla HC blå",
     "U9:Järfälla HC röd",
     "U9:Järfälla HC vit"
    ],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22071,
@@ -11912,13 +12254,13 @@
    "found_via": "https://stats.swehockey.se/District/Stockholm/JarfallaHC/ScheduleAndResults/Schedule/21041",
    "ok": true,
    "error": null,
-   "source_last_update": "2026-11-26 15:10",
+   "source_last_update": "2026-11-27 13:21",
    "matches": 60,
    "teams": [
     "U9:Järfälla HC gul",
     "U9:Järfälla HC svart"
    ],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22072,
@@ -11932,7 +12274,7 @@
    "source_last_update": "2026-11-26 15:08",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22073,
@@ -11946,7 +12288,7 @@
    "source_last_update": "2026-11-25 10:47",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22074,
@@ -11960,7 +12302,7 @@
    "source_last_update": "2026-11-23 14:59",
    "matches": 0,
    "teams": [],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   },
   {
    "id": 22042,
@@ -11977,7 +12319,7 @@
     "U10:Järfälla HC 2@Bålsta Cupen U10",
     "U10:Järfälla HC@Bålsta Cupen U10"
    ],
-   "checked_at": "2026-11-27T05:31:12Z"
+   "checked_at": "2026-11-27T15:45:59Z"
   }
  ],
  "other_sources": [
@@ -12444,10 +12786,17 @@
    "changes": 0,
    "requests": 14,
    "warnings": []
+  },
+  {
+   "at": "2026-11-27T15:45:59Z",
+   "ok": true,
+   "changes": 15,
+   "requests": 14,
+   "warnings": []
   }
  ],
- "last_success": "2026-11-27T05:31:12Z",
+ "last_success": "2026-11-27T15:45:59Z",
  "baseline_created": "2026-11-03T12:09:58Z",
- "last_attempt": "2026-11-27T05:31:12Z",
+ "last_attempt": "2026-11-27T15:45:59Z",
  "last_attempt_ok": true
 }
